@@ -12,7 +12,7 @@ Aqui é uma espécie de "log" do que eu fiz.
 --------------------------
 Comecei criando uma assinatura (Azure Subscription 1) e um grupo de recursos, que chamei de "MachineLearning".
 <div align="center">
-<img src="https://github.com/IsacFreitaas/Projeto-Microsoft-Azure-Machine-Learning/assets/65254733/64cd7709-89f8-4adb-91a4-299ba313fffa" width="300px" />
+<img src="https://github.com/IsacFreitaas/Projeto-Microsoft-Azure-Machine-Learning/assets/65254733/64cd7709-89f8-4adb-91a4-299ba313fffa" width="800px" />
 </div>
 Defini o nome do Workspace como "PraticaAi900", como região East US (serviços mais baratos), revisei e criei.
 
