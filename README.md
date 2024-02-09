@@ -172,3 +172,14 @@ Então é isso.
 # Este foi o meu primeiro projeto em Cloud e Machine Learning em meus estudos em Ciência de Dados.
 
 Obrigado pela atenção!
+
+--------------------------
+
+##Sobre mim:
+# Isac Freitas
+Atualmente estudante de Ciência de Dados e Inteligência Artificial.
+
+### Me encontre:
+
+Insta: @isac.sfreitas
+Twitter: @isaczeitgeist
