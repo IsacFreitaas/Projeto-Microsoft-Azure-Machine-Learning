@@ -2,6 +2,8 @@
 
 Olá! Me chamo Isac Freitas, e este é meu projeto trabalhando com Machine Learning na prática no Microsoft Azure ML.
 
+O projeto será usar ferramentas da Inteligência da Azure para prever aluguéis de bicicletas, para uma empresa.
+
 Bom, para o projeto, foram dadas as instruções no curso de Microsoft Azure Ai Fundamentals pela plataforma DIO, com todos os dados para os alunos entregarem a atividade.
 
 Foram compartilhados dois links (documentações de apoio):
