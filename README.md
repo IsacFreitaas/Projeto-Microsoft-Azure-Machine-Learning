@@ -12,15 +12,33 @@ Aqui é uma espécie de "log" do que eu fiz.
 --------------------------
 Comecei criando uma assinatura (Azure Subscription 1) e um grupo de recursos, que chamei de "MachineLearning".
 <div align="center">
-<img src="https://github.com/IsacFreitaas/Projeto-Microsoft-Azure-Machine-Learning/assets/65254733/64cd7709-89f8-4adb-91a4-299ba313fffa" width="800px" />
+<img src="https://github.com/IsacFreitaas/Projeto-Microsoft-Azure-Machine-Learning/assets/65254733/64cd7709-89f8-4adb-91a4-299ba313fffa" width="900px" />
 </div>
-Defini o nome do Workspace como "PraticaAi900", como região East US (serviços mais baratos), revisei e criei.
+
+Defini o nome do Workspace como "PraticaAi900", como região East US (serviços mais baratos),
+<div align="center">
+<img src="https://github.com/IsacFreitaas/Projeto-Microsoft-Azure-Machine-Learning/assets/65254733/bb32efa5-246f-4b5f-8640-e3be49e29b6e" width="700px" />
+</div>
+
+revisei e criei.
+<div align="center">
+<img src="https://github.com/IsacFreitaas/Projeto-Microsoft-Azure-Machine-Learning/assets/65254733/78a83b6e-e4ef-4d2b-b4d6-ea3871be5f3a" width="800px" />
+</div>
 
 Então esperei a implantação finalizar.
+<div align="center">
+<img src="https://github.com/IsacFreitaas/Projeto-Microsoft-Azure-Machine-Learning/assets/65254733/ca868ad9-fc19-4fae-8c8a-b34905e4e51b" width="750px" />
+</div>
 
 Após concluída,
+<div align="center">
+<img src="https://github.com/IsacFreitaas/Projeto-Microsoft-Azure-Machine-Learning/assets/65254733/3586b35f-b8dc-4e07-aa1f-897b4d9599c8" width="750px" />
+</div>
 
 cliquei em "Ir para o recurso", e "Iniciar estúdio".
+<div align="center">
+<img src="https://github.com/IsacFreitaas/Projeto-Microsoft-Azure-Machine-Learning/assets/65254733/2d2739b4-6081-428d-889e-ab24f312afbd" width="750px" />
+</div>
 
 Com o Estúdio de Aprendizado de Máquina aberto,
 
