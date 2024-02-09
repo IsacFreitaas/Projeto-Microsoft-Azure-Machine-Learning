@@ -1,1 +1,27 @@
-.
+# Hora dos testes!
+
+--------------------------
+
+Fui na aba de "Pontos de extremidade", para realizar os testes.
+<div align="center">
+<img src="https://github.com/IsacFreitaas/Projeto-Microsoft-Azure-Machine-Learning/assets/65254733/99c35904-aedb-410c-b569-344b41e5a1e5" width="900px" />
+</div>
+
+Então cliquei na aba "testar", e digitei o os seguintes comandos:
+<div align="center">
+<img src="https://github.com/IsacFreitaas/Projeto-Microsoft-Azure-Machine-Learning/assets/65254733/c402054a-e96d-4563-abc9-5bf7599fc145" width="900px" />
+</div>
+
+Logo após, cliquei em "Testar", e foi apresentado um erro:
+<div align="center">
+<img src="https://github.com/IsacFreitaas/Projeto-Microsoft-Azure-Machine-Learning/assets/65254733/32149a35-aacd-4307-bd41-34bff34f4039" width="950px" />
+</div>
+
+Não sei o que houve, ou se fiz algo de errado.
+Então pesquisei na internet e não achei nada que servisse de solução para este problema.
+Os resultados apresentados na documentação deveriam ser similares a estes:
+<div align="center">
+<img src="https://github.com/IsacFreitaas/Projeto-Microsoft-Azure-Machine-Learning/assets/65254733/82005783-677e-4041-af9f-fcb0dee17a47" width="750px" />
+</div>
+
+--------------------------
