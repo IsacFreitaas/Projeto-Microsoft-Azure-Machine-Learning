@@ -1,4 +1,4 @@
-# Meu primeiro projeto em Microsoft Azure Machine Learning
+## Meu primeiro projeto em Microsoft Azure Machine Learning
 
 Olá! Me chamo Isac Freitas, e este é meu projeto trabalhando com Machine Learning na prática no Microsoft Azure ML.
 
@@ -175,7 +175,7 @@ Obrigado pela atenção!
 
 --------------------------
 
-##Sobre mim:
+Sobre mim:
 # Isac Freitas
 Atualmente estudante de Ciência de Dados e Inteligência Artificial.
 
